@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "code": 200,
+        "msg": "My course list",
+        "data": [
+            {
+                "name": "Angular Course",
+                "thumbnail": "angular",
+                "description": "First App Tutorial - Angular Homes gets you started with Angular The First App tutorial guides you through building an Angular app by taking you step by step through the fundamentals of building an application in Angular.",
+                "price": "40",
+                "id": 3
+            },
+            {
+                "name": "Java Course",
+                "thumbnail": "java",
+                "description": "Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language. Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.",
+                "price": "80",
+                "id": 2
+            },
+            {
+                "name": "Flutter Course",
+                "thumbnail": "flutter",
+                "description": "This Flutter Tutorial is specifically designed for beginners and experienced professionals. It covers both the basics and advanced concepts of the Flutter framework. Flutter is Google’s Mobile SDK to build native iOS and Android apps from a single codebase. It was developed on December 4, 2018. When building applications with Flutter, everything is towards Widgets – the blocks with which the Flutter apps are built. The User Interface of the app comprises many simple widgets, each handling one particular job. That is why Flutter developers tend to think of their Flutter app as a tree of devices.",
+                "price": "20",
+                "id": 1
+            }
+        ]
+    }
+}
