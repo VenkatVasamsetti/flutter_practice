@@ -1,0 +1,51 @@
+{
+    "id": "physiscs01",
+    "title": "physis subject name",
+    "chapters": [
+        {
+            "id": "chapter01",
+            "title": "chapter 01",
+            "description": "details of chapter 01",
+            "img": "chapterurl",
+            "topics": [
+                {
+                    "id": "ch01_topic001",
+                    "title": "topic heading 01",
+                    "topic": "topic1",
+                    "description": "topic 1 details",
+                    "img": "url"
+                },
+                {
+                    "id": "ch01_topic002",
+                    "title": "topic heading 02",
+                    "topic": "topic2",
+                    "description": "topic 2 details",
+                    "img": "url"
+                }
+            ]
+        },
+        {
+            "id": "chapter02",
+            "title": "chapter 02",
+            "description": "details of chapter 01",
+            "img": "chapterurl",
+            "topics": [
+                {
+                    "id": "ch02_topic001",
+                    "title": "ch02 topic heading 01",
+                    "topic": "topic1",
+                    "description": "topic 1 details",
+                    "img": "url"
+                },
+                {
+                    "id": "ch01_topic002",
+                    "title": "topic heading 02",
+                    "topic": "topic2",
+                    "description": "topic 2 details",
+                    "img": "url"
+                }
+            ]
+        }
+        
+    ]
+}
