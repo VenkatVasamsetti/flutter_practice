@@ -13,14 +13,16 @@
                     "title": "topic heading 01",
                     "topic": "topic1",
                     "description": "topic 1 details",
-                    "img": "url"
+                    "img": "url",
+                    "fileid": "ch01_topic001"
                 },
                 {
                     "id": "ch01_topic002",
                     "title": "topic heading 02",
                     "topic": "topic2",
                     "description": "topic 2 details",
-                    "img": "url"
+                    "img": "url",
+                    "fileid": "ch01_topic001"
                 }
             ]
         },
@@ -35,14 +37,16 @@
                     "title": "ch02 topic heading 01",
                     "topic": "topic1",
                     "description": "topic 1 details",
-                    "img": "url"
+                    "img": "url",
+                    "fileid": "ch02_topic001"
                 },
                 {
-                    "id": "ch01_topic002",
+                    "id": "ch02_topic002",
                     "title": "topic heading 02",
                     "topic": "topic2",
                     "description": "topic 2 details",
-                    "img": "url"
+                    "img": "url",
+                    "fileid": "ch02_topic002"
                 }
             ]
         }
