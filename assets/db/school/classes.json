@@ -1,40 +1,46 @@
 {
     "id": "class001",
-    "classes": [
+    "title": "classes",
+    "categories": [
         {
             "id": "class06",
-            "title": "Class-06",            
+            "title": "Class-06",
             "description": "details of class 06",
             "img": "class06img",
-            "fileid": "subjects"
+            "fileid": "subjects",
+            "url": "/class06/"
         },
         {
             "id": "class07",
-            "title": "Class-07",            
+            "title": "Class-07",
             "description": "details of class 07",
             "img": "class07img",
-            "fileid": "subjects"
+            "fileid": "subjects",
+            "url": "/class07/"
         },
         {
             "id": "class08",
-            "title": "Class-08",            
+            "title": "Class-08",
             "description": "details of class 08",
             "img": "class08img",
-            "fileid": "subjects"
+            "fileid": "subjects",
+            "url": "/class08/"
         },
         {
             "id": "class09",
-            "title": "Class-09",            
+            "title": "Class-09",
             "description": "details of class 09",
             "img": "class09img",
-            "fileid": "subjects"
+            "fileid": "subjects",
+            "url": "/class09/"
         },
         {
             "id": "class10",
-            "title": "Class-10",            
+            "title": "Class-10",
             "description": "details of class 10",
             "img": "class10img",
-            "fileid": "subjects"
+            "fileid": "subjects",
+            "url": "/class10/"
         }
     ]
 }

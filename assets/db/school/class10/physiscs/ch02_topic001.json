@@ -1,5 +1,6 @@
 {
-    "id": "ch02_topic001",    
+    "id": "ch02_topic001",
+    "title": "physis chapters",
     "quizzes": [
         {
             "id": "ts001",
@@ -33,7 +34,6 @@
                             "details": "details of answers",
                             "correct": false
                         }
-
                     ]
                 },
                 {
@@ -61,7 +61,6 @@
                             "details": "details of answers",
                             "correct": false
                         }
-
                     ]
                 }
             ]
@@ -99,7 +98,6 @@
                             "details": "details of answers",
                             "correct": false
                         }
-
                     ]
                 },
                 {
@@ -127,7 +125,6 @@
                             "details": "details of answers",
                             "correct": false
                         }
-
                     ]
                 }
             ]

@@ -4,38 +4,43 @@
     "categories": [
         {
             "id": "school06",
-            "title": "school-06",            
+            "title": "school-06",
             "description": "details of school 06",
             "img": "school06img",
-            "fileid": "classes"
+            "fileid": "classes",
+            "url": "/school/"
         },
         {
             "id": "gk07",
-            "title": "gk-07",            
+            "title": "gk-07",
             "description": "details of gk 07",
             "img": "gk07img",
-            "fileid": "gk"
+            "fileid": "gk",
+            "url": "/gk/"
         },
         {
             "id": "java08",
-            "title": "java-08",            
+            "title": "java-08",
             "description": "details of java 08",
             "img": "java08img",
-            "fileid": "java"
+            "fileid": "java",
+            "url": "/java/"
         },
         {
             "id": "angular09",
-            "title": "angular-09",            
+            "title": "angular-09",
             "description": "details of angular 09",
             "img": "angular09img",
-            "fileid": "angular"
+            "fileid": "angular",
+            "url": "/angular/"
         },
         {
             "id": "flutter10",
-            "title": "flutter-10",            
+            "title": "flutter-10",
             "description": "details of flutter 10",
             "img": "flutter10img",
-            "fileid": "flutter"
+            "fileid": "flutter",
+            "url": "/flutter/"
         }
     ]
 }
