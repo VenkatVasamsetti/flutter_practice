@@ -8,7 +8,7 @@
             "description": "details of physiscs ",
             "img": "physiscsimg",
             "fileid": "chapters",
-            "url": "/physiscs"
+            "url": "/school/class10/physiscs"
         },
         {
             "id": "chemistry",
@@ -16,7 +16,7 @@
             "description": "details of chemistry",
             "img": "chemistryimg",
             "fileid": "chapters",
-            "url": "/chemistry"
+            "url": "/school/class10/chemistry"
         },
         {
             "id": "matchs",
@@ -24,7 +24,7 @@
             "description": "details of matchs 08",
             "img": "matchs08img",
             "fileid": "chapters",
-            "url": "/matchs"
+            "url": "/school/class10/matchs"
         },
         {
             "id": "biology",
@@ -32,7 +32,7 @@
             "description": "details of biology 09",
             "img": "biology09img",
             "fileid": "chapters",
-            "url": "/biology"
+            "url": "/school/class10/biology"
         },
         {
             "id": "social10",
@@ -40,7 +40,7 @@
             "description": "details of social 10",
             "img": "social10img",
             "fileid": "chapters",
-            "url": "/social"
+            "url": "/school/class10/social"
         },
         {
             "id": "english10",
@@ -48,7 +48,7 @@
             "description": "details of english 10",
             "img": "english10img",
             "fileid": "chapters",
-            "url": "/english"
+            "url": "/school/class10/english"
         }
     ]
 }

@@ -8,7 +8,7 @@
             "description": "details of class 06",
             "img": "class06img",
             "fileid": "subjects",
-            "url": "/class06"
+            "url": "/school/class06"
         },
         {
             "id": "class07",
@@ -16,7 +16,7 @@
             "description": "details of class 07",
             "img": "class07img",
             "fileid": "subjects",
-            "url": "/class07"
+            "url": "/school/class07"
         },
         {
             "id": "class08",
@@ -24,7 +24,7 @@
             "description": "details of class 08",
             "img": "class08img",
             "fileid": "subjects",
-            "url": "/class08"
+            "url": "/school/class08"
         },
         {
             "id": "class09",
@@ -32,7 +32,7 @@
             "description": "details of class 09",
             "img": "class09img",
             "fileid": "subjects",
-            "url": "/class09"
+            "url": "/school/class09"
         },
         {
             "id": "class10",
@@ -40,7 +40,7 @@
             "description": "details of class 10",
             "img": "class10img",
             "fileid": "subjects",
-            "url": "/class10"
+            "url": "/school/class10"
         }
     ]
 }
