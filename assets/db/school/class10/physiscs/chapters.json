@@ -1,7 +1,7 @@
 {
     "id": "physiscs01",
     "title": "physis chapters",
-    "categories": [
+    "chapters": [
         {
             "id": "chapter01",
             "title": "chapter 01",
