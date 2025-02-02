@@ -14,22 +14,22 @@
                     "selectedAnswer": "A",
                     "options": [
                         {
-                            "value": "1",
+                            "value": "qs1o1",
                             "details": "details of answers",
                             "correct": true
                         },
                         {
-                            "value": "2",
+                            "value": "qs1o2",
                             "details": "details of answers",
                             "correct": false
                         },
                         {
-                            "value": "3",
+                            "value": "qs1o3",
                             "details": "details of answers",
                             "correct": false
                         },
                         {
-                            "value": "4",
+                            "value": "qs1o4",
                             "details": "details of answers",
                             "correct": false
                         }
@@ -41,23 +41,23 @@
                     "selectedAnswer": "B",
                     "options": [
                         {
-                            "value": "1",
-                            "details": "details of answers",
+                            "value": "qs12o1",
+                            "details": "details of answers1",
                             "correct": false
                         },
                         {
-                            "value": "2",
-                            "details": "details of answers",
+                            "value": "qs12o2",
+                            "details": "details of answers2",
                             "correct": true
                         },
                         {
-                            "value": "3",
-                            "details": "details of answers",
+                            "value": "qs12o3",
+                            "details": "details of answers3",
                             "correct": false
                         },
                         {
-                            "value": "4",
-                            "details": "details of answers",
+                            "value": "qs12o4",
+                            "details": "details of answers4",
                             "correct": false
                         }
                     ]
