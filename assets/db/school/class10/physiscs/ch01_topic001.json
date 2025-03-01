@@ -12,26 +12,31 @@
                     "id": "qs01",
                     "question": "what is physics",
                     "selectedAnswer": "A",
+                    "isEquation": false,
                     "options": [
                         {
                             "value": "qs1o1",
                             "details": "details of answers",
-                            "correct": true
+                            "correct": true,
+                            "isEquation": false
                         },
                         {
                             "value": "qs1o2",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "qs1o3",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "qs1o4",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         }
                     ]
                 },
@@ -39,26 +44,31 @@
                     "id": "qs02",
                     "question": "what is electron",
                     "selectedAnswer": "B",
+                    "isEquation": false,
                     "options": [
                         {
                             "value": "qs12o1",
                             "details": "details of answers1",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "qs12o2",
                             "details": "details of answers2",
-                            "correct": true
+                            "correct": true,
+                            "isEquation": false
                         },
                         {
                             "value": "qs12o3",
                             "details": "details of answers3",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "qs12o4",
                             "details": "details of answers4",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         }
                     ]
                 }
@@ -76,26 +86,31 @@
                     "id": "qs01",
                     "question": "what is physics",
                     "selectedAnswer": "A",
+                    "isEquation": false,
                     "options": [
                         {
                             "value": "1",
                             "details": "details of answers",
-                            "correct": true
+                            "correct": true,
+                            "isEquation": false
                         },
                         {
                             "value": "2",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "3",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "4",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         }
                     ]
                 },
@@ -103,26 +118,31 @@
                     "id": "qs02",
                     "question": "what is electron",
                     "selectedAnswer": "B",
+                    "isEquation": false,
                     "options": [
                         {
                             "value": "1",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "2",
                             "details": "details of answers",
-                            "correct": true
+                            "correct": true,
+                            "isEquation": false
                         },
                         {
                             "value": "3",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         },
                         {
                             "value": "4",
                             "details": "details of answers",
-                            "correct": false
+                            "correct": false,
+                            "isEquation": false
                         }
                     ]
                 }
