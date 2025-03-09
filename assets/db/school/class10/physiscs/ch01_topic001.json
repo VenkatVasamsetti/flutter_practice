@@ -15,27 +15,27 @@
                     "isEquation": false,
                     "options": [
                         {
-                            "value": "qs1o1",
+                            "option": "qs1o1",
                             "details": "details of answers",
-                            "correct": true,
+                            "answer": true,
                             "isEquation": false
                         },
                         {
-                            "value": "qs1o2",
+                            "option": "qs1o2",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "qs1o3",
+                            "option": "qs1o3",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "qs1o4",
+                            "option": "qs1o4",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         }
                     ]
@@ -47,27 +47,91 @@
                     "isEquation": false,
                     "options": [
                         {
-                            "value": "qs12o1",
+                            "option": "qs12o1",
                             "details": "details of answers1",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "qs12o2",
+                            "option": "qs12o2",
                             "details": "details of answers2",
-                            "correct": true,
+                            "answer": true,
                             "isEquation": false
                         },
                         {
-                            "value": "qs12o3",
+                            "option": "qs12o3",
                             "details": "details of answers3",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "qs12o4",
+                            "option": "qs12o4",
                             "details": "details of answers4",
-                            "correct": false,
+                            "answer": false,
+                            "isEquation": false
+                        }
+                    ]
+                },
+                {
+                    "id": "qs03",
+                    "question": "What is the capital of India?",
+                    "selectedAnswer": "B",
+                    "isEquation": false,
+                    "options": [
+                        {
+                            "option": "hyderabad",
+                            "details": "details of answers1",
+                            "answer": false,
+                            "isEquation": false
+                        },
+                        {
+                            "option": "CH_4 + 2O_2 \\xrightarrow{\\Delta} CO_2 + 2H_2O",
+                            "details": "ssss",
+                            "answer": false,
+                            "isEquation": true
+                        },
+                        {
+                            "option": "Delhi",
+                            "details": "details of answers3",
+                            "answer": false,
+                            "isEquation": false
+                        },
+                        {
+                            "option": "Kolkata",
+                            "details": "details of answers4",
+                            "answer": false,
+                            "isEquation": false
+                        }
+                    ]
+                },
+                {
+                    "id": "qs03",
+                    "question": "Which of the following are prime numbers?",
+                    "selectedAnswer": "B",
+                    "isEquation": false,
+                    "options": [
+                        {
+                            "option": "2",
+                            "details": "details of answers1",
+                            "answer": true,
+                            "isEquation": false
+                        },
+                        {
+                            "option": "3",
+                            "details": "aa",
+                            "answer": true,
+                            "isEquation": false
+                        },
+                        {
+                            "option": "4",
+                            "details": "details of answers3",
+                            "answer": false,
+                            "isEquation": false
+                        },
+                        {
+                            "option": "5",
+                            "details": "details of answers4",
+                            "answer": true,
                             "isEquation": false
                         }
                     ]
@@ -89,27 +153,27 @@
                     "isEquation": false,
                     "options": [
                         {
-                            "value": "1",
+                            "option": "1",
                             "details": "details of answers",
-                            "correct": true,
+                            "answer": true,
                             "isEquation": false
                         },
                         {
-                            "value": "2",
+                            "option": "2",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "3",
+                            "option": "3",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "4",
+                            "option": "4",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         }
                     ]
@@ -121,27 +185,27 @@
                     "isEquation": false,
                     "options": [
                         {
-                            "value": "1",
+                            "option": "1",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "2",
+                            "option": "2",
                             "details": "details of answers",
-                            "correct": true,
+                            "answer": true,
                             "isEquation": false
                         },
                         {
-                            "value": "3",
+                            "option": "3",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         },
                         {
-                            "value": "4",
+                            "option": "4",
                             "details": "details of answers",
-                            "correct": false,
+                            "answer": false,
                             "isEquation": false
                         }
                     ]
