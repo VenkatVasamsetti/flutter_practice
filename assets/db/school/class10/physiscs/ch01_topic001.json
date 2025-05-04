@@ -87,7 +87,7 @@
                     "question": "What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?",
                     "selectedAnswer": "B",
                     "isEquation": false,
-                    "imagePath": "https://raw.githubusercontent.com/VenkatSetti/flutter_practice/refs/heads/dev/img/compass.svg",
+                    "imagePath": "/school/class10/physiscs/images.json",
                     "options": [
                         {
                             "option": "hyderabad",
