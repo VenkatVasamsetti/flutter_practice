@@ -13,28 +13,33 @@
                     "question": "what is physics",
                     "selectedAnswer": "A",
                     "isEquation": false,
+                    "imagePath": "",
                     "options": [
                         {
                             "option": "qs1o1",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "qs1o2",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "qs1o3",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "qs1o4",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         }
@@ -45,28 +50,33 @@
                     "question": "what is electron",
                     "selectedAnswer": "B",
                     "isEquation": false,
+                    "imagePath": "",
                     "options": [
                         {
                             "option": "qs12o1",
                             "details": "details of answers1",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "qs12o2",
                             "details": "details of answers2",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "qs12o3",
                             "details": "details of answers3",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "qs12o4",
                             "details": "details of answers4",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         }
@@ -74,31 +84,36 @@
                 },
                 {
                     "id": "qs03",
-                    "question": "What is the capital of India?",
+                    "question": "What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?What is the capital of India?",
                     "selectedAnswer": "B",
                     "isEquation": false,
+                    "imagePath": "",
                     "options": [
                         {
                             "option": "hyderabad",
                             "details": "details of answers1",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
-                            "option": "CH_4 + 2O_2 \\xrightarrow{\\Delta} CO_2 + 2H_2O",
+                            "option": "\\(CH_4 + 2O_2 \\xrightarrow{\\Delta} CO_2 + 2H_2O\\)",
                             "details": "ssss",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": true
                         },
                         {
                             "option": "Delhi",
                             "details": "details of answers3",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "Kolkata",
                             "details": "details of answers4",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         }
@@ -108,29 +123,34 @@
                     "id": "qs04",
                     "question": "Which of the following are prime numbers?",
                     "selectedAnswer": "B",
+                    "imagePath": "",
                     "isEquation": false,
                     "options": [
                         {
                             "option": "2",
                             "details": "details of answers1",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "3",
                             "details": "aa",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "4",
                             "details": "details of answers3",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "5",
                             "details": "details of answers4",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         }
@@ -140,17 +160,20 @@
                     "id": "qs05",
                     "question": "11 is the prime number?",
                     "selectedAnswer": "B",
+                    "imagePath": "",
                     "isEquation": false,
                     "options": [
                         {
                             "option": "False",
                             "details": "details of answers1",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "True",
                             "details": "aa",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         }
@@ -169,30 +192,35 @@
                 {
                     "id": "qs01",
                     "question": "what is physics",
+                    "imagePath": "",
                     "selectedAnswer": "A",
                     "isEquation": false,
                     "options": [
                         {
                             "option": "1",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "2",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "3",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "4",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         }
@@ -201,30 +229,35 @@
                 {
                     "id": "qs02",
                     "question": "what is electron",
+                    "imagePath": "",
                     "selectedAnswer": "B",
                     "isEquation": false,
                     "options": [
                         {
                             "option": "1",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "2",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": true,
                             "isEquation": false
                         },
                         {
                             "option": "3",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         },
                         {
                             "option": "4",
                             "details": "details of answers",
+                            "imagePath": "",
                             "answer": false,
                             "isEquation": false
                         }
