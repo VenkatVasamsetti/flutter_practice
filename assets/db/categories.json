@@ -8,7 +8,8 @@
             "description": "details of school 06",
             "img": "school06img",
             "fileid": "classes",
-            "url": "/school"
+            "url": "/school",
+            "difficulty": "easy"
         },
         {
             "id": "gk07",
@@ -16,7 +17,8 @@
             "description": "details of gk 07",
             "img": "gk07img",
             "fileid": "gk",
-            "url": "/gk"
+            "url": "/gk",
+            "difficulty": "easy"
         },
         {
             "id": "java08",
@@ -24,7 +26,8 @@
             "description": "details of java 08",
             "img": "java08img",
             "fileid": "java",
-            "url": "/java"
+            "url": "/java",
+            "difficulty": "easy"
         },
         {
             "id": "angular09",
@@ -32,7 +35,8 @@
             "description": "details of angular 09",
             "img": "angular09img",
             "fileid": "angular",
-            "url": "/angular"
+            "url": "/angular",
+            "difficulty": "easy"
         },
         {
             "id": "flutter10",
@@ -40,7 +44,8 @@
             "description": "details of flutter 10",
             "img": "flutter10img",
             "fileid": "flutter",
-            "url": "/flutter"
+            "url": "/flutter",
+            "difficulty": "easy"
         }
     ]
 }
