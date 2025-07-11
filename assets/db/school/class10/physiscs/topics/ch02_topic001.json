@@ -1,6 +1,8 @@
 {
     "id": "ch02_topic001",
     "title": "physis chapters",
+    "description": "details of chapter 01",
+    "img": "",
     "quizzes": [
         {
             "id": "ts001",

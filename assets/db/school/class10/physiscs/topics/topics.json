@@ -1,0 +1,49 @@
+{
+    "id": "physiscs01",
+    "title": "physis chapters",
+    "description": "details of chapter 01",
+    "img": "",
+    "root": false,
+    "categories": [
+        {
+            "id": "ch01_topic001",
+            "title": "topic heading 01",
+            "description": "topic 1 details",
+            "img": "",
+            "fileid": "ch01_topic001",
+            "url": "/school/class10/physiscs/topics"
+        },
+        {
+            "id": "ch01_topic002",
+            "title": "topic heading 02",
+            "description": "topic 2 details",
+            "img": "",
+            "fileid": "ch01_topic001",
+            "url": "/school/class10/physiscs/topics"
+        },
+        {
+            "id": "ch02_topic001",
+            "title": "ch02 topic heading 01",
+            "description": "topic 1 details",
+            "img": "",
+            "fileid": "ch02_topic001",
+            "url": "/school/class10/physiscs/topics"
+        },
+        {
+            "id": "ch02_topic002",
+            "title": "topic heading 02",
+            "description": "topic 2 details",
+            "img": "",
+            "fileid": "ch02_topic002",
+            "url": "/school/class10/physiscs/topics"
+        },
+        {
+            "id": "ch03_topic005",
+            "title": "topic heading 05",
+            "description": "topic 5 details",
+            "img": "",
+            "fileid": "ch01_topic001",
+            "url": "/school/class10/physiscs/topics"
+        }
+    ]
+}

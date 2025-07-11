@@ -1,0 +1,24 @@
+{
+    "id": "physiscs01",
+    "title": "physis chapters",
+    "categories": [
+        {
+            "id": "ch01_topic001",
+            "title": "topic heading 01",
+            "topic": "topic1",
+            "description": "topic 1 details",
+            "img": "url",
+            "fileid": "ch01_topic001",
+            "url": "/school/class10/maths/topics"
+        },
+        {
+            "id": "ch01_topic002",
+            "title": "topic heading 02",
+            "topic": "topic2",
+            "description": "topic 2 details",
+            "img": "url",
+            "fileid": "ch01_topic001",
+            "url": "/school/class10/maths/topics"
+        }
+    ]
+}

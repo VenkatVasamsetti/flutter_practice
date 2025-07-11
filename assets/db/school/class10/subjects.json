@@ -1,6 +1,9 @@
 {
     "id": "subject001",
     "title": "subjects ",
+    "description": "details of subject 01",
+    "img": "subjectimg",
+    "root": true,
     "categories": [
         {
             "id": "physiscs",

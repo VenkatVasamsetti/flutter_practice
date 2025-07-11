@@ -1,6 +1,9 @@
 {
     "id": "class001",
     "title": "classes",
+    "description": "details of classes",
+    "img": "classesimg",
+    "root": true,
     "categories": [
         {
             "id": "class06",

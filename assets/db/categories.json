@@ -1,6 +1,9 @@
 {
     "id": "catag001",
     "title": "Categories",
+    "description": "details of categories",
+    "img": "categoriesimg",
+    "root": true,
     "categories": [
         {
             "id": "school06",
@@ -8,8 +11,7 @@
             "description": "details of school 06",
             "img": "school06img",
             "fileid": "classes",
-            "url": "/school",
-            "difficulty": "easy"
+            "url": "/school"
         },
         {
             "id": "gk07",
@@ -17,8 +19,7 @@
             "description": "details of gk 07",
             "img": "gk07img",
             "fileid": "gk",
-            "url": "/gk",
-            "difficulty": "easy"
+            "url": "/gk"
         },
         {
             "id": "java08",
@@ -26,8 +27,7 @@
             "description": "details of java 08",
             "img": "java08img",
             "fileid": "java",
-            "url": "/java",
-            "difficulty": "easy"
+            "url": "/java"
         },
         {
             "id": "angular09",
@@ -35,8 +35,7 @@
             "description": "details of angular 09",
             "img": "angular09img",
             "fileid": "angular",
-            "url": "/angular",
-            "difficulty": "easy"
+            "url": "/angular"
         },
         {
             "id": "flutter10",
@@ -44,8 +43,7 @@
             "description": "details of flutter 10",
             "img": "flutter10img",
             "fileid": "flutter",
-            "url": "/flutter",
-            "difficulty": "easy"
+            "url": "/flutter"
         }
     ]
 }
