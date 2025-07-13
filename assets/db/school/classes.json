@@ -10,31 +10,31 @@
             "title": "Class-06",
             "description": "details of class 06",
             "img": "class06img",
-            "fileid": "subjects",
-            "url": "/school/class06"
+            "fileid": "",
+            "url": "/school"
         },
         {
             "id": "class07",
             "title": "Class-07",
             "description": "details of class 07",
             "img": "class07img",
-            "fileid": "subjects",
-            "url": "/school/class07"
+            "fileid": "",
+            "url": "/school"
         },
         {
             "id": "class08",
             "title": "Class-08",
             "description": "details of class 08",
             "img": "class08img",
-            "fileid": "subjects",
-            "url": "/school/class08"
+            "fileid": "",
+            "url": "/school"
         },
         {
             "id": "class09",
             "title": "Class-09",
             "description": "details of class 09",
             "img": "class09img",
-            "fileid": "subjects",
+            "fileid": "",
             "url": "/school/class09"
         },
         {
