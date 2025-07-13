@@ -18,7 +18,7 @@
             "title": "topic heading 02",
             "description": "topic 2 details",
             "img": "",
-            "fileid": "ch01_topic001",
+            "fileid": "",
             "url": "/school/class10/physiscs/topics"
         },
         {
@@ -34,7 +34,7 @@
             "title": "topic heading 02",
             "description": "topic 2 details",
             "img": "",
-            "fileid": "ch02_topic002",
+            "fileid": "",
             "url": "/school/class10/physiscs/topics"
         },
         {
@@ -42,7 +42,7 @@
             "title": "topic heading 05",
             "description": "topic 5 details",
             "img": "",
-            "fileid": "ch01_topic001",
+            "fileid": "",
             "url": "/school/class10/physiscs/topics"
         }
     ]

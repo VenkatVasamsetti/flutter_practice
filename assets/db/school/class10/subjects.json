@@ -18,7 +18,7 @@
             "title": "chemistry",
             "description": "details of chemistry",
             "img": "chemistryimg",
-            "fileid": "chapters",
+            "fileid": "",
             "url": "/school/class10/chemistry"
         },
         {
@@ -34,7 +34,7 @@
             "title": "biology-09",
             "description": "details of biology 09",
             "img": "biology09img",
-            "fileid": "chapters",
+            "fileid": "",
             "url": "/school/class10/biology"
         },
         {
@@ -42,7 +42,7 @@
             "title": "social-10",
             "description": "details of social 10",
             "img": "social10img",
-            "fileid": "chapters",
+            "fileid": "",
             "url": "/school/class10/social"
         },
         {
@@ -50,7 +50,7 @@
             "title": "english-10",
             "description": "details of english 10",
             "img": "english10img",
-            "fileid": "chapters",
+            "fileid": "",
             "url": "/school/class10/english"
         }
     ]
