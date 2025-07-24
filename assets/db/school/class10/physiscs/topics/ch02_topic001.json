@@ -3,131 +3,152 @@
     "title": "physis chapters",
     "description": "details of chapter 01",
     "img": "",
-    "quizzes": [
+    "questions": [
         {
-            "id": "ts001",
-            "title": "test 01",
-            "description": "test 1 details",
-            "timeSeconds": 900,
-            "questionsCount": 2,
-            "questions": [
+            "id": "qs01",
+            "question": "what is physiscs 2",
+            "selectedAnswer": "A",
+            "isEquation": false,
+            "imagePath": "",
+            "options": [
                 {
-                    "id": "qs01",
-                    "question": "what is physiscs",
-                    "selectedAnswer": "A",
-                    "options": [
-                        {
-                            "value": "1",
-                            "details": "details of answers",
-                            "correct": true
-                        },
-                        {
-                            "value": "2",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "3",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "4",
-                            "details": "details of answers",
-                            "correct": false
-                        }
-                    ]
+                    "option": "qs1o1",
+                    "details": "details of answers",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
                 },
                 {
-                    "id": "qs02",
-                    "question": "what is electron",
-                    "selectedAnswer": "B",
-                    "options": [
-                        {
-                            "value": "1",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "2",
-                            "details": "details of answers",
-                            "correct": true
-                        },
-                        {
-                            "value": "3",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "4",
-                            "details": "details of answers",
-                            "correct": false
-                        }
-                    ]
+                    "option": "qs1o2",
+                    "details": "details of answers",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                },
+                {
+                    "option": "qs1o3",
+                    "details": "details of answers",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                },
+                {
+                    "option": "qs1o4",
+                    "details": "details of answers",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
                 }
             ]
         },
         {
-            "id": "ts002",
-            "title": "test 02",
-            "topic": "topic2",
-            "description": "test 2 details",
-            "timeSeconds": 900,
-            "questionsCount": 2,
-            "questions": [
+            "id": "qs05",
+            "question": "11 is the prime number?",
+            "selectedAnswer": "B",
+            "imagePath": "",
+            "isEquation": false,
+            "options": [
                 {
-                    "id": "qs01",
-                    "question": "what is physiscs",
-                    "selectedAnswer": "A",
-                    "options": [
-                        {
-                            "value": "1",
-                            "details": "details of answers",
-                            "correct": true
-                        },
-                        {
-                            "value": "2",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "3",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "4",
-                            "details": "details of answers",
-                            "correct": false
-                        }
-                    ]
+                    "option": "qs12o1",
+                    "details": "details of answers1",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
                 },
                 {
-                    "id": "qs02",
-                    "question": "what is electron",
-                    "selectedAnswer": "B",
-                    "options": [
-                        {
-                            "value": "1",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "2",
-                            "details": "details of answers",
-                            "correct": true
-                        },
-                        {
-                            "value": "3",
-                            "details": "details of answers",
-                            "correct": false
-                        },
-                        {
-                            "value": "4",
-                            "details": "details of answers",
-                            "correct": false
-                        }
-                    ]
+                    "option": "qs12o2",
+                    "details": "details of answers2",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
+                },
+                {
+                    "option": "qs12o3",
+                    "details": "details of answers3",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                },
+                {
+                    "option": "qs12o4",
+                    "details": "details of answers4",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                }
+            ]
+        },
+        {
+            "id": "qs06",
+            "question": "what is physics",
+            "imagePath": "",
+            "selectedAnswer": "A",
+            "isEquation": false,
+            "options": [
+                {
+                    "option": "hyderabad",
+                    "details": "details of answers1",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                },
+                {
+                    "option": "\\(CH_4 + 2O_2 \\xrightarrow{\\Delta} CO_2 + 2H_2O\\)",
+                    "details": "ssss",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": true
+                },
+                {
+                    "option": "Delhi",
+                    "details": "details of answers3",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
+                },
+                {
+                    "option": "Kolkata",
+                    "details": "details of answers4",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                }
+            ]
+        },
+        {
+            "id": "qs04",
+            "question": "Which of the following are prime numbers?",
+            "selectedAnswer": "B",
+            "imagePath": "",
+            "isEquation": false,
+            "options": [
+                {
+                    "option": "2",
+                    "details": "details of answers1",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
+                },
+                {
+                    "option": "3",
+                    "details": "aa",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
+                },
+                {
+                    "option": "4",
+                    "details": "details of answers3",
+                    "imagePath": "",
+                    "answer": false,
+                    "isEquation": false
+                },
+                {
+                    "option": "5",
+                    "details": "details of answers4",
+                    "imagePath": "",
+                    "answer": true,
+                    "isEquation": false
                 }
             ]
         }
