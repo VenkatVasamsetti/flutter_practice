@@ -3,7 +3,7 @@
     "title": "physis chapters",
     "description": "details of subject 01",
     "img": "",
-    "root": true,
+    "root": false,
     "categories": [
         {
             "id": "chapter01",
