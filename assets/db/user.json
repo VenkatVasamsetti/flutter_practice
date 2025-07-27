@@ -1,0 +1,26 @@
+{
+    "login": [
+        {
+            "code": 200,
+            "data": {
+                "access_token": "aaa1",
+                "token": "aaa1",
+                "name": "Abhi",
+                "avatar": "abhi"
+            },
+            "msg": "User created",
+            "email": "a"
+        },
+        {
+            "code": 200,
+            "data": {
+                "access_token": "bbb1",
+                "token": "bbb1",
+                "name": "Akhil",
+                "avatar": "akhil"
+            },
+            "msg": "User logged successfully",
+            "email": "b"
+        }
+    ]
+}

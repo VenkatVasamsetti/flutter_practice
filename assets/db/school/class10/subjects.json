@@ -1,0 +1,57 @@
+{
+    "id": "subject001",
+    "title": "subjects ",
+    "description": "details of subject 01",
+    "img": "subjectimg",
+    "root": true,
+    "categories": [
+        {
+            "id": "physics",
+            "title": "physics ",
+            "description": "details of physics ",
+            "img": "physics",
+            "fileid": "chapters",
+            "url": "/school/class10/physics"
+        },
+        {
+            "id": "chemistry",
+            "title": "chemistry",
+            "description": "details of chemistry",
+            "img": "chemistry",
+            "fileid": "",
+            "url": "/school/class10/chemistry"
+        },
+        {
+            "id": "matchs",
+            "title": "matchs-08",
+            "description": "details of matchs 08",
+            "img": "mathematics",
+            "fileid": "chapters",
+            "url": "/school/class10/matchs"
+        },
+        {
+            "id": "biology",
+            "title": "biology-09",
+            "description": "details of biology 09",
+            "img": "biology",
+            "fileid": "",
+            "url": "/school/class10/biology"
+        },
+        {
+            "id": "social10",
+            "title": "social-10",
+            "description": "details of social 10",
+            "img": "social",
+            "fileid": "",
+            "url": "/school/class10/social"
+        },
+        {
+            "id": "english10",
+            "title": "english-10",
+            "description": "details of english 10",
+            "img": "english",
+            "fileid": "",
+            "url": "/school/class10/english"
+        }
+    ]
+}

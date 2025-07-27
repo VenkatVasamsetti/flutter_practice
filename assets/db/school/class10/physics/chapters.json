@@ -1,0 +1,25 @@
+{
+    "id": "physiscs01",
+    "title": "physis chapters",
+    "description": "details of subject 01",
+    "img": "",
+    "root": false,
+    "categories": [
+        {
+            "id": "chapter01",
+            "title": "chapter 01",
+            "description": "details of chapter 01",
+            "img": "chapterurl",
+            "fileid": "topics",
+            "url": "/school/class10/physics/topics"
+        },
+        {
+            "id": "chapter02",
+            "title": "chapter 02",
+            "description": "details of chapter 01",
+            "img": "chapterurl",
+            "fileid": "topics",
+            "url": "/school/class10/physics/topics"
+        }
+    ]
+}
