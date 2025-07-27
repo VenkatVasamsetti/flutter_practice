@@ -11,7 +11,7 @@
             "description": "details of chapter 01",
             "img": "chapterurl",
             "fileid": "topics",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         },
         {
             "id": "chapter02",
@@ -19,7 +19,7 @@
             "description": "details of chapter 01",
             "img": "chapterurl",
             "fileid": "topics",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         }
     ]
 }
