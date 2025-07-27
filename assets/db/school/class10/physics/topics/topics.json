@@ -11,7 +11,7 @@
             "description": "topic 1 details",
             "img": "",
             "fileid": "ch01_topic001",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         },
         {
             "id": "ch01_topic002",
@@ -19,7 +19,7 @@
             "description": "topic 2 details",
             "img": "",
             "fileid": "",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         },
         {
             "id": "ch02_topic001",
@@ -27,7 +27,7 @@
             "description": "topic 1 details",
             "img": "",
             "fileid": "ch02_topic001",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         },
         {
             "id": "ch02_topic002",
@@ -35,7 +35,7 @@
             "description": "topic 2 details",
             "img": "",
             "fileid": "",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         },
         {
             "id": "ch03_topic005",
@@ -43,7 +43,7 @@
             "description": "topic 5 details",
             "img": "",
             "fileid": "",
-            "url": "/school/class10/physiscs/topics"
+            "url": "/school/class10/physics/topics"
         }
     ]
 }
