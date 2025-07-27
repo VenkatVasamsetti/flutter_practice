@@ -6,7 +6,7 @@
     "questions": [
         {
             "id": "qs01",
-            "question": "what is physiscs 2",
+            "question": "what is physics 2",
             "selectedAnswer": "A",
             "isEquation": false,
             "imagePath": "",
